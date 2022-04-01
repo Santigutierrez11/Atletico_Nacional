@@ -1,0 +1,38 @@
+html {box-sizing: border-box; margin: 0; padding: 0; font-size: 62.5%;}
+body {background-color: #eeeeee;}
+h1 {text-align: center;}
+p {font-size: 1.6rem;}
+
+/* NAV */
+.header {background-color: 	#159415; width: 100%; height: 100px; margin-top: 3%;}
+.header-img {background-color: white; display: inline-block; width: 10%; height: 160px; margin-top: -27px; margin-left: 4%; border: green solid 3px; border-radius: 7px;}
+.header-title {display: inline-block; font-size: 3.0rem; color: white; width: 30%; margin-top: 2%;margin-left: 4%;}
+.nav-a {display: inline-block; width: 50%; margin-top: 3%; margin-left: 20px;}
+.nav-a_a {text-decoration: none;color: white;font-size: 1.8rem; margin-left: 5%;}
+.nav-a_a:hover{color: black;}
+
+/* TITULOS */
+.articulo-titulos { display: flex; width: 100%; margin-top: 4%;}
+.section-tutulos {width: 50%; margin-left: 4%;}
+.section-img {width: 40%; margin-left: 2%;}
+.img-titulos {width: 100%; margin-top: 1%;}
+
+/* CARD TITULOS */
+.section-card {width: 90%; margin-top: 3%; margin-left: 5%;}
+.section-suramericana {width: 70%; margin-left: 15%;}
+.card-suramericana {background-color: #d5f8d5; border: solid #00823d; width: 30%; margin-left: 35%; margin-bottom: 3%; border-radius: 20px; text-align: justify;}
+.section-dostitulos {display: flex; width: 70%; margin-left: 15%;}
+.card-dostitulos {background-color: #d5f8d5; border: solid #00823d; width: 30%; margin-left: 13%; margin-bottom: 3%; border-radius: 20px; text-align: justify;}
+.section-liga {display: flex; width: 100%;}
+.card-liga {background-color: #d5f8d5; border: solid #00823d; width: 24%; margin-left: 1%; margin-bottom: 3%; border-radius: 20px;}
+.card-img {background-color: #d5f8d5; border: solid #00823d; width: 90%; height: 130px; margin-top: 2%; margin-left: 5%; border-radius: 15px;}
+
+/* FOOTER */
+.footer {display: flex; background-color: #00823d; height: 300px;}
+.section-logo {width: 16%;margin-left: 4%;}
+.footer-img {margin-top: 6px;width: 100%;}
+.redes-footer {display: flex; width: 70%; margin-left: 2%; font-size: 2.4rem;}
+.redes1 {width: 44%; height: 80px; margin-top: 12%; margin-left: 20px;}
+.redes2-3 {width: 24%; height: 80px;margin-top: 12%; margin-left: 20px;}
+.redes-foote-a {text-decoration: none; color: white;}
+.redes-foote-a:hover {color: black}
